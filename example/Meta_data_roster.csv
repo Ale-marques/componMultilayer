@@ -1,0 +1,153 @@
+﻿Org;User_name;OT_SUB;OT_GEO;;;Organization categories list;Details
+BRA001;ABCiencias;22;NAT;;;;
+BRA002;ADMFarmServices;32;NAT;;;;
+BRA003;institutoakatu;42;LOC;;1;Political system;
+BRA004;Alcoa;35;NAT;;11;Government’s chief executive office;11 Government’s chief executive office. Examples: Chancellors office in Germany, Prime Minister’s office in Finland, the President of the US
+BRA005;Not Found;32;LOC;;12;Gov't ministry/department/department subsection;12 Gov't ministry/department/department subsection. Examples: ministry of environment in Finland, Department of Energy- Office of Biological & Environmental Research  in the US
+BRA006;ANAgovbr;13;NAT;;13;Independent governmental agency;"13 Independent governmental agency . Defined as: Not all agencies are formally independent; some are in sub- ordinate relationships with public administration and ministries. Instead, IAs are defined as ‘governmental entities... neither directly elected by the people, nor directly managed by elected officials’ . Example: US Environmental Protection Agency"
+BRA007;andicomunicacao;;;;14;Other gov’t agency;14 Other gov’t agency. Any government agency that does not fall into 12 or 13. Examples: the union of Finnish municipalities Kuntaliitto, German Umweltbundesamt
+BRA008;ANEEL_govbr;13;NAT;;15;Ruling political party;15 Ruling political party. A political party that is part of the government at the time of data collection
+BRA009;ANPgovbr;13;NAT;;16;Non-ruling political party;16 Non-ruling political party. A political party that is not part of the government at the time of data collection
+BRA010;ANPOCS;22;NAT;;17;Governmental advisory committee or gov’t organized stakeholder forum;17 Governmental advisory committee or stakeholder forum. A committee, often consisting of scientists, set by the government to give advice to the government.  Example: the scientist panel on climate change set 
+BRA011;anppasoficial;22;NAT;;2;Science;
+BRA012;Not Found;41;LOC;;21;University or other research-oriented higher education institution or a research institute within a university;21 University or other research-oriented higher education institution or a research institute within a university. These are differentiated from 22 (non-university research institutes) in that they are organizations or parts of organizations that engage not only in research but also in education. Most of them are called university but not all. These are also differentiated from 34 (business think tanks) 43 (environmental think tanks) and 44 (other think tanks) in that think tanks do not engage in education and do not publish most of their work in peer reviewed journals.
+BRA013;adtamazonia;41;LOC;;22;Non-university research institutes and research funders;22 Non-university research institutes and research funders. These are differentiated from 34 (business think tanks) 43 (environmental think tanks) and 44 (other think tanks) in that research institutes publish a significant share of their work in peer reviewed journals (or, in a few exceptional cases, if it is otherwise clear that they do basic research rather than politically motivated policy briefs like think tanks do). These are also differentiated from 21 (universities, higher education institutions and research institutes within universities). Research funders such as the National Science Foundation are included in the category of research institutes 
+BRA014;FundacionAVINA;34;NAT;;3;Business;
+BRA015;BancodoBrasil;14;NAT;;31;Energy business firm;31 Energy business firm. Examples: Shell Oil, The coal power plant company. Differentiated from 35 (energy intensive business firm)
+BRA016;the_IDB;33;NAT;;32;Other business firm;32 Other business firm. Consulting companies are classified as other think tank, not business think tank because they often work for governments as well as businesses, and the definition should reflect who funds them and who gives them orders - both governments and businesses do. 
+BRA017;bndes;14;NAT;;33;Other business interest organization;33 Other business interest organization
+BRA018;fund_boticario;34;NAT;;34;Business think tank;34 Business think tank. Differentiated from 22 (research institutes) in that think tanks mostly publish policy briefs rather than peer reviewed articles. Differentiated also from 43 (business think tanks) and 44 (other think tanks) . Consulting companies are classified as other think tank, not business think tank because they often work for govenrments as well as businesses, and the definition should reflect who funds them and who gives them orders - both governments and businesses do. 
+BRA019;B3_Oficial;34;NAT;;35;Energy intensive (but not an energy sector such as oil) business firm;35 Energy intensive (but not an energy sector such as oil) business firm. Large power consumers, pulp and paper, metal, chemicals, mining, but NOT airlines, aircraft manufacturers or car manufacturers. Differentiated from energy sector firms such as oil or electricity generation companies.
+BRA020;fundacaobunge;32;NAT;;36;Energy sector business interest organization;36 Energy sector business interest organization
+BRA021;CAPES_Oficial;22;NAT;;37;Energy intensive (but not an energy sector such as oil) business interest org.;37 Energy intensive (but not an energy sector such as oil) business interest org.
+BRA022;@Cargill;32;NAT;;38;Agricultural organization;38 Agricultural organization. Examples: The Irish Farmers’ Association. 
+BRA023;CBNoficial;;LOC;;39;Business movement/initiative;39 Na informal coalition of businesses acting on climate change. Examples: two degree coalition of German business, Irish Corporate Leadership on Climate Change
+BRA024;Not Found;35;NAT;;4;Civil society;
+BRA025;cebds;39;NAT;;41;ENGO;41 ENGO. Differentiated from 43 (environmental think tank) in that ENGOs are more oriented towards action such as mobilizing people for campaigns, implementing environmental projects etc whereas think tanks mostly publish reports. Differentiated from 42 (other NGO) in that ENGOs primary focus is the environment
+BRA026;CNBBNacional;45;NAT;;42;Other NGO or NGO organized stakeholder forum;42 Other NGO. Any NGO whose main focus is other than the environment
+BRA027;FazendaGovBr;17;NAT;;43;Environmental think tank;43 Environmental think tank. Differentiated from 22 (research institutes) in that think tanks mostly publish policy briefs rather than peer reviewed articles. Differentiated also from 34 (business think tanks) and 44 (other think tanks) (non-business, publish mostly policy briefs, unlike 2.2)
+BRA028;CIBrasil;41;NAT;;44;Other think tank or consulting firm;44 Other think tank or consulting firm. Differentiated from 22 (research institutes) in that think tanks mostly publish policy briefs rather than peer reviewed articles. Differentiated also from 34 (business think tanks) and 43 (other think tanks). Consulting companies are classified as other think tank, not business think tank because they often work for govenrments as well as businesses, and the definition should reflect who funds them and who gives them orders - both governments and businesses do. 
+BRA029;ClimateLandUse;42;NAT;;45;Religious organization;45 Religious organization. churches and other such religious communities only, religious NGOs such as Christian Aid, Action Aid are 42 (other NGO)
+BRA030;SistemaCNA;38;NAT;;46;Labor union organization;46 Labor union organization
+BRA031;CNI_br;33;NAT;;48;Professional association;48 Professional association. Examples: Canadian Bar Association
+BRA032;CNPq_Oficial;22;NAT;;5;Media;
+BRA033;Not Found;42;NAT;;;Variable _GEO ;
+BRA034;CoiabAmazonia;42;SUB;;;Geographical reach: international (INT), national (NAT), state (SUB), local (LOC);
+BRA035;CONIC_Brasil;45;NAT;;;;
+BRA036;Not Found;17;NAT;;;;
+BRA037;Contraf_CUT;46;NAT;;;;
+BRA038;Not Found;46;NAT;;;;
+BRA039;Not Found;38;NAT;;;;
+BRA040;CoppeUFRJ;21;SUB;;;;
+BRA041;Not Found;31;NAT;;;;
+BRA042;cptnacional;45;NAT;;;;
+BRA043;CUT_Brasil;46;NAT;;;;
+BRA044;DuratexOficial;32;NAT;;;;
+BRA045;Eletrobras;14;NAT;;;;
+BRA046;Not Found;14;NAT;;;;
+BRA047;embrapa;14;NAT;;;;
+BRA048;EPE_Brasil;14;NAT;;;;
+BRA049;EXTINTA;;LOC;;;;
+BRA050;ESALQMidias;21;SUB;;;;
+BRA051;Not Found;44;NAT;;;;
+BRA052;institutoethos;39;NAT;;;;
+BRA053;AgenciaFAPESP;22;SUB;;;;
+BRA054;fasamazonia;41;LOC;;;;
+BRA055;ONGFase;46;NAT;;;;
+BRA056;Not Found;17;NAT;;;;
+BRA057;FEAUSPcomunica;21;SUB;;;;
+BRA058;FEBRABAN;39;NAT;;;;
+BRA059;CONTRAFBRASIL;46;NAT;;;;
+BRA060;Fiesp;33;NAT;;;;
+BRA061;folha;;LOC;;;;
+BRA062;FordFoundation;34;NAT;;;;
+BRA063;governosp;39;NAT;;;;
+BRA064;RYoungSilva;17;LOC;;;;
+BRA065;Not Found;32;NAT;;;;
+BRA066;funbio;44;NAT;;;;
+BRA067;Not Found;43;LOC;;;;
+BRA068;gerdau;31;NAT;;;;
+BRA069;giz_gmbh;43;NAT;;;;
+BRA070;GloboNews;;NAT;;;;
+BRA071;GreenpeaceBR;41;NAT;;;;
+BRA072;RedeGTA;42;SUB;;;;
+BRA073;FGV_EAESP;21;NAT;;;;
+BRA074; iag.usp;21;SUB;;;;
+BRA075;ibgecomunica;14;NAT;;;;
+BRA076;ICLEI;43;NAT;;;;
+BRA077;iconebrasil;34;NAT;;;;
+BRA078;icvcentrodevida;41;LOC;;;;
+BRA079;idec;43;NAT;;;;
+BRA080;Idesam;41;NAT;;;;
+BRA081;@IDS_Brasil;41;NAT;;;;
+BRA082;iieboficial;41;NAT;;;;
+BRA083;UspIee;21;SUB;;;;
+BRA084;fundacaofhc;34;NAT;;;;
+BRA085;Imaflora;41;NAT;;;;
+BRA086;Imazon;43;NAT;;;;
+BRA087;mcti;14;SUB;;;;
+BRA088;inpe_mct;21;NAT;;;;
+BRA089;Not Found;35;NAT;;;;
+BRA090;osbrasil;44;NAT;;;;
+BRA091;IPAM_Amazonia;43;LOC;;;;
+BRA092;InstitutoIPE;41;LOC;;;;
+BRA093;ipeaonline;14;NAT;;;;
+BRA094;Id_sustentavel;34;NAT;;;;
+BRA095;socioambiental;41;NAT;;;;
+BRA096;isernarede;45;NAT;;;;
+BRA097;IUCN;41;NAT;;;;
+BRA098;Not Found;35;LOC;;;;
+BRA099;JBS_oficial;32;NAT;;;;
+BRA100;Not Found;42;NAT;;;;
+BRA101;Not Found;35;NAT;;;;
+BRA102;Not Found;14;NAT;;;;
+BRA103;Mapa_Brasil;12;NAT;;;;
+BRA104;marfrig_mrfg3;32;NAT;;;;
+BRA105;casacivilbr;12;NAT;;;;
+BRA106;MinCidades;12;NAT;;;;
+BRA107;mcti;12;NAT;;;;
+BRA108;museugoeldi;14;SUB;;;;
+BRA109;metodista1re;45;SUB;;;;
+BRA110;FazendaGovBr;12;NAT;;;;
+BRA111;mmeioambiente;12;NAT;;;;
+BRA112;Minas_Energia;12;NAT;;;;
+BRA113;MooreFound;34;NAT;;;;
+BRA114;MPF_PGR;12;NAT;;;;
+BRA115;CGUonline;12;NAT;;;;
+BRA116;ItamaratyGovBr;12;NAT;;;;
+BRA117;minsaude;12;NAT;;;;
+BRA118;MST_Oficial;42;NAT;;;;
+BRA119;MInfraestrutura;12;NAT;;;;
+BRA120;naturabroficial;32;NAT;;;;
+BRA121;Nestle;32;NAT;;;;
+BRA122;JornalOGlobo;;NAT;;;;
+BRA123;obsclima;42;NAT;;;;
+BRA124;oec_eng;35;NAT;;;;
+BRA125;Estadao;;NAT;;;;
+BRA126;OxfamBrasil;42;NAT;;;;
+BRA127;paodeacucar;32;NAT;;;;
+BRA128;InstPeabiru;41;LOC;;;;
+BRA129;petrobras;31;NAT;;;;
+BRA130;PackardFdn;34;NAT;;;;
+BRA131;eldoradoradio;;LOC;;;;
+BRA132;SBPCnet;22;NAT;;;;
+BRA133;SBTonline;;NAT;;;;
+BRA134;governosp;12;SUB;;;;
+BRA135;sosamazonia_;41;LOC;;;;
+BRA136;Not Found;35;NAT;;;;
+BRA137;tetrapak;32;NAT;;;;
+BRA138;TNCBrasil;41;NAT;;;;
+BRA139;TVGloboInter;;NAT;;;;
+BRA140;ufac_oficial;21;NAT;;;;
+BRA141;UFAM_;21;NAT;;;;
+BRA142;UFPA_Oficial;21;NAT;;;;
+BRA143;UNICA_cana;38;NAT;;;;
+BRA144;unicampoficial;21;SUB;;;;
+BRA145;USAID;34;NAT;;;;
+BRA146;valenobrasil;35;NAT;;;;
+BRA147;Not Found;39;NAT;;;;
+BRA148;valoreconomico;;LOC;;;;
+BRA149;Not Found;35;NAT;;;;
+BRA150;WRIBrasil;43;NAT;;;;
+BRA151;wwfbrasil;41;NAT;;;;
+BRA 152;CoalizaoCs;22;NAT;;;;
